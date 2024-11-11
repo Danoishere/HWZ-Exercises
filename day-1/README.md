@@ -14,8 +14,7 @@ Klicke dazu auf die Datei und wähle das Download Symbol *Download Raw Data*
 
 > https://forms.gle/G3QgGUzJzu324oam6
 
-3. Fahren Sie mit Teil 2 weiter. Nach 30 Minuten besprechen wir die Aufgaben zusammen.
-
+3. Fahren Sie mit Teil 2 weiter. Am Ende der Übung besprechen wir zusammen, was Sie herausgefunden haben.
 
 
 ## Teil 2 - Image Classifier
@@ -24,7 +23,15 @@ Ziel dieser Übung ist das Trainieren eines einfachen Image Classifiers.
 Folgen Sie dazu den folgenden Schritten:
 
 1. Laden sie die ZIP-Datei ```danos_plant_dataset.zip``` herunter.
-2. Bei der Datei handelt es sich um einen kleinen Datensatz mit Pflanzen (und einigen Nicht-Pflanzen) mit N = 25. Beantworten Sie zuerst die Fragen im Google Forms:
+2. Bei der Datei handelt es sich um einen kleinen Datensatz mit Pflanzen (und einigen Nicht-Pflanzen) mit N = 25. Einige der Bilder enthalten Pflanzen, einige nicht.
+3. Sortieren sie die Bilder nach "Enthält Pflanze" oder "Enthält keine Pflanze" in zwei verschiedene Ordner.
+4. Beantworten Sie die folgenden Fragen:
 
-> 
+> https://forms.gle/KJXVxcFWK25EiRgL9
+
+5. Erstellen Sie ein neues *Image Project* auf https://teachablemachine.withgoogle.com/train
+6. Laden Sie die annotierten Bilder hoch in die zwei Klassen
+7. Trainieren Sie ein Modell
+8. Können Sie den Classifier austricksen (via Webacam oder Fileupload)? Welche Fehler finden sie?
+
 
