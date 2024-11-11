@@ -30,8 +30,8 @@ Folgen Sie dazu den folgenden Schritten:
 > https://forms.gle/KJXVxcFWK25EiRgL9
 
 5. Erstellen Sie ein neues *Image Project* auf https://teachablemachine.withgoogle.com/train
-6. Laden Sie die annotierten Bilder hoch in die zwei Klassen
-7. Trainieren Sie ein Modell
+6. Laden Sie die annotierten Bilder hoch in die zwei Klassen.
+7. Trainieren Sie ein Modell. Sie sollten nun Bilder klassifizieren können.
 8. Können Sie den Classifier austricksen (via Webacam oder Fileupload)? Welche Fehler finden sie?
 9. Wie könnten Sie diese Fehlerfälle in Ihre Annotations-Pipline einbauen? Machen Sie sich notizen.
 
