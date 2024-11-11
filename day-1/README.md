@@ -8,9 +8,9 @@ Für Teil 1 können sie den Spreadsheet Editor ihrer Wahl verwenden (MS Excel, A
 
 ## Teil 1 - Struktur des Dataset
 
-1. Lade die Datei ```Life_Expectancy_Data.csv``` herunter.
-Klicke dazu auf die Datei und wähle das Download Symbol *Download Raw Data*
-2. Öffne die Datei in einem Editor deiner Wahl und beantworte die folgenden Fragen unter
+1. Laden Sie die Datei ```Life_Expectancy_Data.csv``` herunter.
+Klicken Sie dazu auf die Datei und wähle das Download Symbol *Download Raw Data*
+2. Öffnen Sie die Datei in einem Editor deiner Wahl und beantworten Sie die folgenden Fragen unter
 
 > https://forms.gle/G3QgGUzJzu324oam6
 
