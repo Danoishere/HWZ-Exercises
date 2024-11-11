@@ -23,7 +23,7 @@ Ziel dieser Übung ist das Trainieren eines einfachen Image Classifiers.
 Folgen Sie dazu den folgenden Schritten:
 
 1. Laden sie die ZIP-Datei ```danos_plant_dataset.zip``` herunter.
-2. Bei der Datei handelt es sich um einen kleinen Datensatz mit Pflanzen (und einigen Nicht-Pflanzen) mit N = 25. Einige der Bilder enthalten Pflanzen, einige nicht.
+2. Bei der Datei handelt es sich um einen kleinen Datensatz mit Pflanzen (und einigen Nicht-Pflanzen) mit N = 25.
 3. Sortieren sie die Bilder nach "Enthält Pflanze" oder "Enthält keine Pflanze" in zwei verschiedene Ordner.
 4. Beantworten Sie die folgenden Fragen:
 
