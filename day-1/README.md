@@ -33,7 +33,7 @@ Folgen Sie dazu den folgenden Schritten:
 6. Laden Sie die annotierten Bilder hoch in die zwei Klassen.
 7. Trainieren Sie ein Modell. Sie sollten nun Bilder klassifizieren können.
 8. Können Sie den Classifier austricksen (via Webacam oder Fileupload)? Welche Fehler finden sie?
-9. Wie könnten Sie diese Fehlerfälle in Ihre Annotations-Pipline einbauen? Machen Sie sich notizen.
+9. Wie könnten Sie diese Fehlerfälle in Ihre Annotations-Pipline behandeln? Machen Sie sich Notizen.
 
 
 
