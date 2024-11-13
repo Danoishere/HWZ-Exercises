@@ -30,13 +30,24 @@ GPU Server sind näher beschrieben unter dem Abschnitt **Accelerated Computing**
 1. Gehen sie auf https://calculator.aws/
 2. Ihr Ziel ist es nun, ein passendes Angebot zu finden, welches die definierten Anforderungen erfüllt.
 
-Machen Sie für beide Server ein Screenshot mit dem günstigsten Angebot, welches Sie finden. Kopieren Sie den Screenshot auf Miro und geben Sie folgende Informationen an in Textform
+Machen Sie für beide Server ein Screenshot mit dem günstigsten Angebot, welches Sie finden. Kopieren Sie den Screenshot ins folgende Google Forms hoch:
 
-- Ihren Namen
+https://forms.gle/oaEurmoQC9Q9417z7
+
+Geben Sie folgende Informationen an in Textform
+
 - Die Instanz Typen, für welche Sie sich entschieden haben für die beiden Server
 - Preis pro Monat
 
-Zeit: 30 minuten
-Anschliessend besprechen wir die Aufgabe
+3. Ihr Team entwickelt sich weiter, und braucht noch mehr Rechenpower. Leider ist die aktuelle Generation von GPUs limitiert auf ca. 80 GB GPU Memory. Recherchieren Sie: Welche Möglichkeiten gibt es, diese Beschränkungen zu umgehen? Finden Sie eine passende AWS Instanz, dass Sie Modelle mit einer Grösse von mind. 100 GB trainieren könnnen.
+(Hinweis: Der Backpropagation Algorithmus braucht im Minimum 2x die Modell-Grösse an Speicherplatz).
+
+Im obigen Google Forms Formular:
+
+- Machen Sie einen Screenshot und fügen Sie auch diesen ein
+- Beschreiben Sie Ihre Lösung, die Sie recherchiert haben
+- Geben Sie auch hier den Preis pro Monat an.
+
+Anschliessend besprechen wir die Aufgabe.
 
 
