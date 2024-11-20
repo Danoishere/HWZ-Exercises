@@ -20,12 +20,11 @@ Server 2:
 - Mindestens 64 GB Arbeitsspeicher
 - GPU mit mindestens 48 GB GPU Memory
 
-Beide Server sollten nahe zur oder in der Schweiz stationiert sein. Hilfe zu den Verschiedenen Server Typen (instance types) finden Sie unter https://aws.amazon.com/ec2/instance-types/.
-GPU Server sind näher beschrieben unter dem Abschnitt **Accelerated Computing**.
+Beide Server sollten nahe zur oder in der Schweiz stationiert sein. Hilfe zu den Verschiedenen Server Typen (instance types) finden Sie unter [diesem Link](https://learn.microsoft.com/de-de/azure/virtual-machines/sizes/overview?tabs=breakdownseries%2Cgeneralsizelist%2Ccomputesizelist%2Cmemorysizelist%2Cstoragesizelist%2Cgpusizelist%2Cfpgasizelist%2Chpcsizelist).
 
 ## Auftrag
 
-1. Gehen sie auf https://calculator.aws/
+1. Gehen sie auf den Azure Pricing Calculator: https://azure.microsoft.com/en-us/pricing/calculator/
 2. Ihr Ziel ist es nun, ein passendes Angebot zu finden, welches die definierten Anforderungen erfüllt.
 
 Machen Sie für beide Server ein Screenshot mit dem günstigsten Angebot, welches Sie finden. Kopieren Sie den Screenshot ins folgende Google Forms hoch:
@@ -37,8 +36,7 @@ Geben Sie folgende Informationen an in Textform
 - Die Instanz Typen, für welche Sie sich entschieden haben für die beiden Server
 - Preis pro Monat
 
-3. Ihr Team entwickelt sich weiter, und braucht noch mehr Rechenpower. Leider ist die aktuelle Generation von GPUs limitiert auf ca. 80 GB GPU Memory. Recherchieren Sie: Welche Möglichkeiten gibt es, diese Beschränkungen zu umgehen? Finden Sie eine passende AWS Instanz, dass Sie Modelle mit einer Grösse von mind. 100 GB trainieren könnnen.
-(Hinweis: Der Backpropagation Algorithmus braucht im Minimum 2x die Modell-Grösse an Speicherplatz).
+3. Ihr Team entwickelt sich weiter, und braucht noch mehr Rechenpower. Leider ist die aktuelle Generation von GPUs limitiert auf ca. 80 GB GPU Memory. Recherchieren Sie: Welche Möglichkeiten gibt es, diese Beschränkungen zu umgehen? Finden Sie eine passende Azure Instanz, dass Sie Modelle mit einer Grösse von mind. 100 GB trainieren könnnen.
 
 Im obigen Google Forms Formular:
 
