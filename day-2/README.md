@@ -3,9 +3,7 @@
 
 Ziel dieser Übung ist, dass Sie sich mit dem Pricing-Modell und den gängigsten Begriffen moderner Cloud-Anbieter vertraut machen. 
 
-Sie arbeiten in einem Startup, welches eine Machine Learning Pipeline aufbauen will. Sie haben sich Entschlossen, Amazon Web Services (AWS) zu verwenden. AWS ermöglicht es, Computer zu mieten über den Service *Amazon Elastic Compute Cloud* (EC2). 
-
-Im cost calculator heisst dieser Service **Amazon EC2**.
+Sie arbeiten in einem Startup, welches eine Machine Learning Pipeline aufbauen will. Sie haben sich entschlossen, Microsoft Azure zu verwenden. Azure ermöglicht es, Computer zu mieten und innert weniger Sekunden zu verwenden.
 
 Mit dem Engineering Team sind folgende Anforderungen definiert worden:
 
