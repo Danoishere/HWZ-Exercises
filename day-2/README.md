@@ -27,6 +27,7 @@ Beide Server sollten nahe zur oder in der Schweiz stationiert sein. Hilfe zu den
 1. Gehen sie auf den Azure Pricing Calculator: https://azure.microsoft.com/en-us/pricing/calculator/
 2. Ihr Ziel ist es nun, ein passendes Angebot zu finden, welches die definierten Anforderungen erfüllt.
 
+Auf dem Cost Calculator finden Sie verschiedene Maschinen in der Sektion "Virtual Machines"-
 Machen Sie für beide Server ein Screenshot mit dem günstigsten Angebot, welches Sie finden. Kopieren Sie den Screenshot ins folgende Google Forms hoch:
 
 https://forms.gle/oaEurmoQC9Q9417z7
